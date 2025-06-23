@@ -29,8 +29,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asifxqueen&show_icons=true&theme=radical" alt="asif stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asifxqueen&theme=radical" alt="asif streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASIFXQUEEN903&show_icons=true&theme=radical" alt="asif stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIFXQUEEN903&theme=radical" alt="asif streak" />
 </p>
 
 ---
